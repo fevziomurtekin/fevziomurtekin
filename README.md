@@ -7,9 +7,3 @@ I’m mainly interested in Mobile Application Development, Kotlin, Flutter, Java
 
 
 [![Fevzi's github stats](https://github-readme-stats.vercel.app/api?username=fevziomurtekin)](https://github.com/fevziomurtekin/github-readme-stats) 
-
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/fevziomurtekin/count.svg" />
-</p>
